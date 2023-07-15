@@ -18,3 +18,7 @@ go build hello-world.go
 ## Resources
 
 <https://gobyexample.com/hello-world>
+
+Create the `go.mod` file:
+
+<https://go.dev/doc/tutorial/getting-started>
