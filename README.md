@@ -4,9 +4,4 @@ Project to learn Go.
 
 ## Installation
 
-Arch Linux:
-
-```bash
-sudo pacman -S go
-```
-
+Execute [this script](https://github.com/CarlosAMolina/dotfiles/blob/main/scripts/runs/go).
